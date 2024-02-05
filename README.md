@@ -118,7 +118,7 @@ If you install gcc as suggested, the problem will persist. Therefore, you need t
 
 ## Operator Installation
 
-To install within a Kubernetes cluster please use our `k8sgpt-operator` with installation instructions available [here](https://github.com/k8sgpt-ai/k8sgpt-operator)
+To install within a Kubernetes cluster, please use our `k8sgpt-operator` with installation instructions available [here](https://github.com/k8sgpt-ai/k8sgpt-operator)
 
 _This mode of operation is ideal for continuous monitoring of your cluster and can integrate with your existing monitoring such as Prometheus and Alertmanager._
 
